@@ -1,0 +1,58 @@
+#lib{
+
+    background-color:black;
+    
+    position: sticky;
+    top:0px;
+}
+
+#lib>h1{
+    margin-bottom:10px;
+    color:white;
+    display: inline-block;
+    width:1000px;
+    margin-left: 20px;
+}
+#lib>a{
+    text-decoration:none;
+    color:white;
+    padding-right: 30px;
+    padding-left:30px;
+    
+}
+
+#a{
+    padding-top: 40 px;
+}
+
+#book{
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+
+
+.t{
+    background-color: rgb(240, 238, 238);
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    
+}
+input {
+    width: 780px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+  }
+button {
+    background-color: black;
+    width: 780px;
+    text-align: center;
+    color: white;
+  }
+  #content{
+    background-color: aqua;
+  }
